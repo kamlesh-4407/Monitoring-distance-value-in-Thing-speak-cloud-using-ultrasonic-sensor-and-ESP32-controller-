@@ -147,7 +147,7 @@ delay(1000);
 ```
 # CIRCUIT DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/82db6bdf-dfe1-4c05-9364-53410cdc1660)
+![image](https://github.com/user-attachments/assets/dd0ee7bb-4d31-41de-aa43-a791690bfb68)
 
 # OUTPUT:
 
